@@ -5,6 +5,8 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/camille-michaud-meli/)
 - ⚡ Fun fact: You can't see me
 
+<img src="https://komarev.com/ghpvc/?username=CamilleMMi&style=for-the-badge&color=blue" alt=""/>
+
 # 💻 Tech Stack:
 
 **Languages:**  
